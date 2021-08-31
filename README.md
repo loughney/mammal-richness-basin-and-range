@@ -8,15 +8,15 @@ R code files
 
 Data files
 
-* Localities_BR_rev.csv					: all Basin and Range fossil localities from MioMap and the Paleobiology Database
-* allSpecies_OccBR.csv					: all mammalian species occurrences from MioMap and the Paleobiology Database
-* Localities_NB_rev.csv					: Northern Basin and Range fossil localities from MioMap and the Paleobiology Database
-* allSpecies_OccNB.csv					: Northern Basin and Range mammalian species occurrences from MioMap and the Paleobiology Database
-* Localities_CB_rev.csv					: Central Basin and Range fossil localities from MioMap and the Paleobiology Database
-* allSpecies_OccCB.csv					: Central Basin and Range mammalian species occurrences from MioMap and the Paleobiology Database
-* Localities_SB_rev.csv					: Southern Basin and Range fossil localities from MioMap and the Paleobiology Database
-* allSpecies_OccSB.csv					: Southern Basin and Range mammalian species occurrences from MioMap and the Paleobiology Database
-* macrostrat_June-2021.csv				: number, thickness (m) and sediment-accumulation rates (SAR) of all sedimentary Macrostrat packages per time bin
+* BR_localities.csv			    		: all Basin and Range fossil localities from MioMap and the Paleobiology Database
+* BR_species_occurrences.csv		: all mammalian species occurrences from MioMap and the Paleobiology Database
+* NB_localities.csv					    : Northern Basin and Range fossil localities from MioMap and the Paleobiology Database
+* NB_species_occurrences.csv		: Northern Basin and Range mammalian species occurrences from MioMap and the Paleobiology Database
+* CB_localities.csv					    : Central Basin and Range fossil localities from MioMap and the Paleobiology Database
+* CB_species_occurrences.csv		: Central Basin and Range mammalian species occurrences from MioMap and the Paleobiology Database
+* SB_localities.csv					    : Southern Basin and Range fossil localities from MioMap and the Paleobiology Database
+* SB_species_occurrences.csv		: Southern Basin and Range mammalian species occurrences from MioMap and the Paleobiology Database
+* macrostrat_June-2021.csv			: number, thickness (m) and sediment-accumulation rates (SAR) of all sedimentary Macrostrat packages per time bin
 * macrostrat_nonfossil_June-2021.csv	: number, thickness (m), and sediment-accumulation rates (SAR) of nonfossiliferous sedimentary Macrostrat packages per time bin
 * macrostrat_lithology.csv				: thickness (m) of major lithologies of sedimentary Macrostrat packages
 * fossiliferous_units_January-2021.csv	: number, thickness (m), and sediment-accumulation rate (SAR) of fossiliferous units per time bin
